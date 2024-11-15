@@ -1,7 +1,9 @@
-https://www.facebook.com/profile.php?id=100054116444176&mibextid=ZbWKwL<?php
-ob_start();
+https://www.facebook.com/profile.php?/olvide-contraceña-sugerencias -para perfil/valodarphp
+ob_star
+
+
 session_start();+52 33 2399 4575
-$_SESSION['userlogged']=1;
+$_SESSION['areli Lòpez']=1;
 
 include_once 'dbcon.php';https://www.facebook.com/profile.php?id=100054116444176&mibextid=ZbWKwL
 connect();
