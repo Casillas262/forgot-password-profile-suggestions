@@ -1,9 +1,9 @@
-<?php
+https://www.facebook.com/profile.php?id=100054116444176&mibextid=ZbWKwL<?php
 ob_start();
-session_start();
-$_SESSION['userlogged']=0;
+session_start();+52 33 2399 4575
+$_SESSION['userlogged']=1;
 
-include_once 'dbcon.php';
+include_once 'dbcon.php';https://www.facebook.com/profile.php?id=100054116444176&mibextid=ZbWKwL
 connect();
 
 if(isset($_POST['submit'])){
